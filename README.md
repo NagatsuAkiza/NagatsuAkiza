@@ -1,3 +1,5 @@
+<h3 align="center">A passionate programmer from Indonesia 🇮🇩</h3>
+
 <div align="center">
 <p>    
 🌱 I’m currently learning **React, Astro, Next JS, Go, PHP**
