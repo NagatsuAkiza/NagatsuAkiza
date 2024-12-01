@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=50&duration=4000&pause=1000&color=000000&center=true&random=false&width=435&height=100&lines=Hello+There!%F0%9F%91%8B;I'm+Akiza" alt="Typing SVG" /><h3 align="center">A passionate programmer from Indonesia 🇮🇩</h3>
-
-<div align="center">
 <p>    
 🌱 I’m currently learning **React, Astro, Next JS, Go, PHP**
 </p>
