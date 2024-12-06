@@ -74,7 +74,7 @@
 <h2 align="center">Support Me (●'◡'●)</h2>
 <p align="center">
   <a href="https://tako.id/nagatsuakiza">
-    <img src="https://storage.tako.id/creator/1d1e92c3-89ab-4d62-9385-6f442e88eeb1/banner.png?ref=Frame%2B10.png" style="border-radius: 20px;" height="80" width="150" alt="takoId" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yuCbGNLSs4UawMtig4E9e6y7KuEATrbtkg&s" style="border-radius: 20px; object-fit: cover; height: 120px; width: auto;" alt="takoId" />
   </a>
 </p>
 
