@@ -2,7 +2,7 @@
 
 <div align="center">
 <p>    
-🌱 I’m currently learning **React, Rust, Next JS, Go, PHP**
+🌱 I’m currently learning **React, Rust, Next JS, Code Igniter**
 </p>
 
 📫 How to reach me **nagatsuakiza@gmail.com**    
