@@ -1,0 +1,162 @@
+{
+  // * editor settings *
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "diffEditor.codeLens": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.quickSuggestions": { "strings": true },
+  "editor.minimap.enabled": true,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on", // "on" | "off"
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.wordWrapColumn": 1000,
+  "editor.wordWrap": "on",
+  "editor.unicodeHighlight.invisibleCharacters": true,
+  "editor.formatOnSave": true,
+  "editor.cursorSurroundingLines": 5,
+  "editor.cursorSurroundingLinesStyle": "default",
+  "explorer.autoReveal": true,
+  "workbench.editor.enablePreview": false,
+
+  // * file explorer settings *
+  "files.exclude": {
+    "**/*.meta": true
+  },
+  "explorer.compactFolders": false,
+
+  // * prettier settings *
+  "prettier.arrowParens": "always",
+  "prettier.proseWrap": "never",
+  "prettier.printWidth": 100,
+  "prettier.trailingComma": "none",
+  "prettier.bracketSameLine": true,
+  "prettier.useEditorConfig": false,
+
+  // * live Server settings *
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.startupEditor": "none",
+
+  // * terminal settings *
+  "terminal.integrated.gpuAcceleration": "on",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.smoothScrolling": false,
+
+  // * screencast settings *
+  "screencastMode.fontSize": 48,
+  "screencastMode.mouseIndicatorColor": "#00000000",
+
+  // * miscellaneous settings *
+  "html.format.contentUnformatted": "",
+  "settingsSync.ignoredSettings": [],
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "window.titleBarStyle": "custom",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "window.zoomLevel": 2,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Monokai Vibrant",
+  "explorer.confirmDelete": false,
+  "editor.stickyScroll.enabled": true,
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.php": "php",
+    "*.rmd": "markdown",
+    ".env*": "dotenv"
+  },
+  "workbench.sideBar.location": "right",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "vscode_vibrancy.theme": "Default Light",
+  "security.workspace.trust.untrustedFiles": "open",
+  "githubPullRequests.pushBranch": "always",
+  "workbench.colorCustomizations": {
+    "editorInfo.foreground": "#0080ff6a",
+    "terminal.background": "#00000000",
+    "editorCursor.background": "#000000"
+  },
+  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "editor.linkedEditing": true,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#00FF0010"
+    },
+    {
+      "column": 100,
+      "color": "#BDB76B15"
+    },
+    {
+      "column": 120,
+      "color": "#FA807219"
+    }
+  ],
+  "editor.unicodeHighlight.includeComments": true,
+  "workbench.editor.revealIfOpen": true,
+  "workbench.tree.indent": 20,
+  "files.eol": "\n",
+  "[bat]": {
+    "files.eol": "\r\n"
+  },
+  "emmet.variables": {
+    "lang": "en"
+  },
+  "thunder-client.requestLayout": "Top/Bottom",
+  "terminal.integrated.tabs.hideCondition": "never",
+  "terminal.integrated.enablePersistentSessions": false,
+
+  "lldb.suppressUpdateNotifications": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.activityBar.location": "top",
+  "workbench.panel.showLabels": true,
+  "codemetrics.nodeconfiguration.ReturnStatement": 0.1,
+  "codemetrics.nodeconfiguration.SwitchStatement": 0.1,
+  "codemetrics.nodeconfiguration.JsxSelfClosingElement": 0.1,
+  "codemetrics.nodeconfiguration.JsxElement": 0.2,
+  "codemetrics.basics.CodeLensHiddenUnder": 4,
+  "conventionalCommits.lineBreak": "\\n",
+  "files.autoSave": "afterDelay",
+  "workbench.editor.labelFormat": "short",
+  "editor.guides.bracketPairs": true,
+  "editor.mouseWheelZoom": true,
+  "projectManager.openInNewWindowWhenClickingInStatusBar": true,
+  "errorLens.gutterIconsEnabled": false,
+  "errorLens.statusBarColorsEnabled": true,
+  "errorLens.statusBarMessageEnabled": true,
+  "errorLens.statusBarMessageType": "closestSeverity",
+  "errorLens.followCursor": "closestProblem",
+  "errorLens.scrollbarHackEnabled": true,
+  "errorLens.fontStyleItalic": true,
+  "errorLens.messageBackgroundMode": "message",
+  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.fontFamily": "JetBrainsMonoNL Nerd Font",
+  "terminal.integrated.letterSpacing": 2,
+  "editor.letterSpacing": 1.4,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 2.5,
+  "githubPullRequests.createOnPublishBranch": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+  "dotenv.enableAutocloaking": false,
+  "git.openRepositoryInParentFolders": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "custom-ui-style.stylesheet": {
+    ".quick-input-titlebar": "background: #100B15 !important",
+    ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #ffaffc 10%, #DA70D6 100%)"
+  },
+  "custom-ui-style.font.sansSerif": "JetBrains Mono",
+  "extensions.ignoreRecommendations": true,
+  "workbench.statusBar.visible": true,
+  "breadcrumbs.enabled": true,
+  "workbench.editor.showTabs": "single"
+}
